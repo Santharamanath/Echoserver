@@ -64,8 +64,11 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
+
+## client
 ![WhatsApp Image 2025-09-12 at 13 30 27_83b6b6c7](https://github.com/user-attachments/assets/751ee45c-3889-4e5a-a30d-d8d48a9a02ed)
 
+## server
 
 ![WhatsApp Image 2025-09-12 at 13 37 59_5d81b292](https://github.com/user-attachments/assets/df47eaab-ecec-47c3-8dc2-83cf2ad97b2e)
 
